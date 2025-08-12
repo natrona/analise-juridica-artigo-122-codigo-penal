@@ -5,25 +5,37 @@
 
 ## Finalidade
 
-Repositório técnico-jurídico especializado no estudo do **Artigo 122 do CP** (indução, instigação ou auxílio ao suicídio), contendo:
+Repositório técnico-jurídico especializado no estudo do **Artigo 122 do CP** (indução, instigação ou auxílio ao suicídio), desenvolvido como material de estudo contendo:
 
 - Análise doutrinária completa
 - Jurisprudência sistematizada
 - Textos legais atualizados
-- Pesquisas interdisciplinares
-- Recursos para aplicação prática
+- Recursos para pesquisa acadêmica
 
-## Estrutura do Projeto
+## Destaques do Conteúdo
 
-```
-artigo-122-codigo-penal/
-├── legislacao/       # Dispositivos legais e históricos
-├── doutrina/        # Comentários teóricos
-├── jurisprudencia/  # Decisões judiciais
-├── estudos/         # Análises complementares 
-├── ferramentas/     # Modelos e utilitários
-└── LICENSE          # Termos de uso
-```
+**Material Didático** incluindo:
+- Evolução histórica do tipo penal
+- Elementos objetivos e subjetivos
+- Jurisprudência comentada (STF, STJ e TJs)
+- Quadro comparativo com legislação estrangeira
+- Glossário de termos técnicos
+
+**Ferramentas de Estudo**:
+- Modelos de análise jurídica
+- Checklist para revisão
+- Fluxograma de elementos do crime
+- Mapas mentais resumidos
+
+## Créditos
+
+**Desenvolvido por**:
+- Ruše (estudante de Direito)
+
+**Fontes principais**:
+- Coleção de julgados 2015-2025
+- Doutrina penal contemporânea
+- Dados oficiais do Poder Judiciário
 
 ## Licenciamento
 
@@ -31,13 +43,9 @@ artigo-122-codigo-penal/
 
 Conteúdo disponível sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitindo:
 
-- Compartilhamento e adaptação
-- Uso para quaisquer fins
-- Criação de obras derivadas
+✔ Uso para fins acadêmicos  
+✔ Adaptação com atribuição  
+✔ Compartilhamento livre
 
-*Atribuição obrigatória mediante menção à fonte original.*
-
----
-
-**Documentação jurídica de referência**  
-*Atualizado em 2025*
+*"Documentação criada para fins de estudo jurídico"*  
+**Ruše, 2025**
