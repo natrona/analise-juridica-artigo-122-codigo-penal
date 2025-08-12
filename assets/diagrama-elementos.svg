@@ -1,0 +1,7 @@
+graph TD
+  A[Art. 122 CP] --> B[Indução]
+  A --> C[Instigação]
+  A --> D[Auxílio]
+  B --> E[Dolo Específico]
+  C --> E
+  D --> F[Meios Materiais]
