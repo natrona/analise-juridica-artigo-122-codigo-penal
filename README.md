@@ -41,11 +41,7 @@ Repositório técnico-jurídico especializado no estudo do **Artigo 122 do CP** 
 
 [![Licença Creative Commons](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/deed.pt_BR)
 
-Conteúdo disponível sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitindo:
-
-✔ Uso para fins acadêmicos  
-✔ Adaptação com atribuição  
-✔ Compartilhamento livre
+Conteúdo disponível sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 *"Documentação criada para fins de estudo jurídico"*  
 **Ruše, 2025**
