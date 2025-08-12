@@ -1,68 +1,43 @@
-# Análise Jurídica do Artigo 122 do Código Penal
+# Análise Jurídica do Artigo 122 do Código Penal Brasileiro
 
 [![Licença CC BY 4.0](https://img.shields.io/badge/Licença-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.pt_BR)
-[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange)](https://github.com/artigo-122-codigo-penal)
+[![Status do Projeto](https://img.shields.io/badge/Status-Ativo-brightgreen)](https://github.com/artigo-122-codigo-penal)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/artigo-122-codigo-penal/.github/main/assets/legal-banner.png" alt="Banner" width="80%">
-</div>
+## Finalidade
 
-## Recursos Disponíveis
+Repositório técnico-jurídico especializado no estudo do **Artigo 122 do CP** (indução, instigação ou auxílio ao suicídio), contendo:
 
-- **Legislação comentada** com histórico de alterações
-- **Análise doutrinária** de 15+ penalistas
-- **Jurisprudência organizada** por tribunal e tese jurídica
-- **Dados interdisciplinares** (saúde mental, estatísticas)
-- **Modelos prontos** para petições e pareceres
+- Análise doutrinária completa
+- Jurisprudência sistematizada
+- Textos legais atualizados
+- Pesquisas interdisciplinares
+- Recursos para aplicação prática
 
 ## Estrutura do Projeto
 
-| Diretório          | Descrição                                  | Destaques                          |
-|--------------------|-------------------------------------------|------------------------------------|
-| `legislacao/`      | Textos legais e projetos em tramitação    | Comparativo internacional          |
-| `doutrina/`        | Elementos do crime e debates teóricos     | Citações organizadas por autor     |
-| `jurisprudencia/`  | Precedentes do STF, STJ e TJs             | Tabela de teses predominantes      |
-| `estudos/`         | Pesquisas em psicologia e sociologia      | Dados epidemiológicos              |
-| `ferramentas/`     | Checklists e modelos processuais          | Fluxograma de análise              |
+```
+artigo-122-codigo-penal/
+├── legislacao/       # Dispositivos legais e históricos
+├── doutrina/        # Comentários teóricos
+├── jurisprudencia/  # Decisões judiciais
+├── estudos/         # Análises complementares 
+├── ferramentas/     # Modelos e utilitários
+└── LICENSE          # Termos de uso
+```
 
-## 🛠️ Como Utilizar
+## Licenciamento
 
-1. **Para consulta rápida**:
-   ```bash
-   git clone https://github.com/artigo-122-codigo-penal.git
-   ```
-2. **Para desenvolvimento**:
-   ```bash
-   cd artigo-122-codigo-penal && mkdir -p docs/contrib
-   ```
+[![Licença Creative Commons](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/deed.pt_BR)
 
-## Princípios do Projeto
-
-- **Atualização trimestral** com nova jurisprudência
-- **Verificação cruzada** em fontes oficiais
-- **Organização temática** para pesquisa eficiente
-- **Licença aberta** para uso acadêmico
-
-## Destaques Recentes
-
-- Análise do PL 5.435/2020 (em tramitação)
-- Jurisprudência 2023-2025 do STJ
-- Dados do Ministério da Saúde 2024
-
-## Licença
-
-Conteúdo disponível sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitindo:
+Conteúdo disponível sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitindo:
 
 - Compartilhamento e adaptação
-- Uso comercial com atribuição
-- Tradução e criação de derivados
+- Uso para quaisquer fins
+- Criação de obras derivadas
 
-```legal
-Modelo de atribuição: 
-"Material baseado no repositório 'Análise do Artigo 122 CP' (disponível em GitHub)"
-```
+*Atribuição obrigatória mediante menção à fonte original.*
 
-<div align="center">
-  <sub>Criado com rigor acadêmico para a comunidade jurídica</sub>
-</div>
-```
+---
+
+**Documentação jurídica de referência**  
+*Atualizado em 2025*
